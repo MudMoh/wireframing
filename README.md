@@ -55,3 +55,20 @@ The level of detail in a wireframe can vary depending on the stage of the design
 - **When to use them:** High-fidelity wireframes are used later in the design process when the basic structure has been approved. They are useful for presenting a more complete vision to stakeholders, conducting more detailed usability tests, and providing a clearer guide for developers.
 
 The image you provided is a low-fidelity wireframe. It uses simple shapes, lines, and text placeholders to represent the structure of a mobile application without any specific visual design elements. This type of wireframe is often used in the initial stages of a project to quickly conceptualize and test different layouts.
+
+## Wireframing Tools
+
+While wireframes can be created with pen and paper, a variety of digital tools are available to streamline the process and enhance collaboration. Popular options include Sketch, Adobe XD, and Figma.
+
+**Figma: A Recommended Tool**
+Figma is a powerful, browser-based tool that has become a favorite for UI/UX designers and developers. Its key features make it particularly useful for wireframing:
+
+- **Real-Time Collaboration:** Multiple team members can work on the same file simultaneously, which is crucial for remote teams and stakeholder feedback.
+
+- **Component Libraries:** You can create reusable components (e.g., buttons, input fields) to ensure consistency and speed up the design process.
+
+- **Prototyping:** Figma allows you to link screens and create interactive prototypes directly from your wireframes, providing a realistic feel of the user flow.
+
+- **Cross-Platform Access:** Because it's a browser-based tool, you can access your work from any device with an internet connection, without needing to install software.
+
+Using a tool like Figma helps you move beyond basic sketches to create more refined, collaborative, and testable wireframes.
