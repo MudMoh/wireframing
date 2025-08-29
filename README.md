@@ -37,3 +37,21 @@ A wireframe is composed of several fundamental elements that work together to de
    Functionality in a wireframe outlines the key interactive elements and their intended behaviors. This includes buttons, forms, search fields, and other interactive components. It helps to map out user interactions and the corresponding system responses.
 
 - **Example:** A wireframe for a sign-up form would show the input fields for name and email, along with a "Submit" button. It might also include a note indicating that clicking the button will lead to a confirmation page.
+
+## Types of Wireframes
+
+The level of detail in a wireframe can vary depending on the stage of the design process. This leads to two primary types: low-fidelity and high-fidelity.
+
+**Low-Fidelity Wireframes**
+
+- **What they are:** These are simple, often hand-drawn sketches or basic digital layouts. They are quick to create and focus on the overall structure, hierarchy, and navigation flow. They typically use basic shapes and placeholders without any color, typography, or detailed graphics.
+
+- **When to use them:** Low-fidelity wireframes are ideal for the initial brainstorming phase. They are perfect for early-stage discussions with stakeholders and for quickly iterating on different ideas without a significant time investment.
+
+**High-Fidelity Wireframes**
+
+- **What they are:** These are more detailed and refined versions of a wireframe. They are created with digital tools and often include more specific design elements like actual text, realistic imagery, and sometimes even interactive components. They are a closer representation of the final design but still lack the final visual polish.
+
+- **When to use them:** High-fidelity wireframes are used later in the design process when the basic structure has been approved. They are useful for presenting a more complete vision to stakeholders, conducting more detailed usability tests, and providing a clearer guide for developers.
+
+The image you provided is a low-fidelity wireframe. It uses simple shapes, lines, and text placeholders to represent the structure of a mobile application without any specific visual design elements. This type of wireframe is often used in the initial stages of a project to quickly conceptualize and test different layouts.
